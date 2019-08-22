@@ -1,0 +1,358 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Dare-Truth</string>
+    <string name="first_p">First player name</string>
+    <string name="second_p">Second player name</string>
+    <string name="third_p">Third player name</string>
+    <string name="fourth_p">Fourth player name</string>
+    <string name="fifth_p">Fifth player name</string>
+    <string name="sixth_p">Sixth player name</string>
+    <string name="seventh_p">Seventh player name</string>
+    <string name="eighth_p">Eighth player name</string>
+    <string name="u_dont_have_to_fiil">You don\'t have to fill all of blank</string>
+    <string name="why_no_body_plays">WHY NOBODY PLAYS?</string>
+    <string name="whos_turn">\'s turn</string>
+    <string name="begining_turn">A player turn first wheel</string>
+    <string name="turn_first_wheel">turn first wheel</string>
+    <string name="first_turn_then">click smile icon then turn second wheel</string>
+    <string name="btn_ask_other">ASK OTHER</string>
+    <string name="btn_OKAY">OKAY</string>
+    <string name="are_u_ready">ARE YOU READY?</string>
+    <string name="guys">Guys</string>
+    <string name="DARE">DARE</string>
+    <string name="TRUE">TRUE</string>
+    <string name="PAS">PASS</string>
+
+    <string-array name="truth">
+
+        <item>Something to which you never say “No”.</item>
+        <item>Related to what was your biggest bad act for which you regret?</item>
+        <item>Could you say thing related to you nobody knows?</item>
+        <item>At which moment did you become so ashamed in the past?</item>
+        <item>For what was your last cry?</item>
+        <item>Could you give an example for your extreme behavior in your life?</item>
+        <item>Who did/do you call in your most helpless moment?</item>
+        <item>What type of film do you like? (action/drama/science fiction/romantic comedy/biography/fantastic)?</item>
+        <item>If said “Choose any memory in the past and we will take you to that time.” Which moment do you live again?</item>
+        <item>Do you wear an underwear now and what is its color?</item>
+        <item>Who do you think among the players has difficulty most in keeping secrets?</item>
+        <item>Talk about something you do and then become ashamed?</item>
+        <item>With which part of your body are you honored?</item>
+        <item>Who is/are there in your Facebook as blocked or limited?</item>
+        <item>What is your worst habit?</item>
+        <item>If you have chance to have as slave one of people in this room, who would be and what would you want him/her to do?</item>
+        <item>What makes you feel vulnerable? </item>
+        <item>What do you think is your worst fault so far?</item>
+        <item>What is the biggest fault in your life?</item>
+        <item>Have you ever bought any underwear for one in opposite sex?</item>
+        <item>Does idea of kissing one in your right side make you feel excited?</item>
+        <item>When was your first kiss?</item>
+        <item>Have you ever caught your mom and dad in sex?</item>
+        <item>What was your last lie?</item>
+        <item>What makes you seduced most?</item>
+        <item>Have you ever thought of killing anyone?</item>
+        <item>Have you ever denigrate anyone? Who was that? What was denigration?</item>
+        <item>What is thing making you disgusted most? </item>
+        <item>With whom in this room do you want to have sex now? </item>
+        <item>In what age did you have your first sex?</item>
+        <item>Do you love anyone?</item>
+        <item>What is the most crazy act in your life?</item>
+        <item>With whom do you want to live in which country? Why?</item>
+        <item>Who would you want to be if you were reborn?</item>
+        <item>Have you ever wanted to damage yourself (If yes, why?)</item>
+        <item>What is name of your first boyfriend/girlfriend?</item>
+        <item>What would three things be you take with if you were stucked in an isolated island? Why?</item>
+        <item>What makes you sad most in this life?</item>
+        <item>What is your most embarrassing moment?</item>
+        <item>For what do you say “Fortunately I gave it” so far?</item>
+        <item>Have you ever been disturbed in WC in any recreation place because you did not lock the door?</item>
+        <item>Have you ever rub your nasal mucus under any table?</item>
+        <item>Have you ever farted in a public transportation and said “Oh disgusting!”, then covered your nose with hand? </item>
+        <item>What do you think about person in your right side?</item>
+        <item>What do you think about player in your left side?</item>
+        <item>What color is your underwear?</item>
+        <item>What do you want to do right now?</item>
+        <item>Are you afraid of falling in love? Why?</item>
+        <item>Have you ever slept with anyone on sofa?</item>
+        <item>Do you think which one makes you feel painful? Emotional? Physical?</item>
+        <item>Which one do you want to visit? Museum or zoo? Why?</item>
+        <item>Are you tired?</item>
+        <item>When did you talk with the person kissing you last?</item>
+        <item>Do you marry with one you think as right person?</item>
+        <item>Do you kiss one kissing you last again? (Why?)</item>
+        <item>What is in your mind now?</item>
+        <item>Do you have any tattoo?</item>
+        <item>Who do you want to kiss you?</item>
+        <item>Has anyone ever said “Your eyes are so nice.”</item>
+        <item>Have you ever experienced a valentine’s day alone?</item>
+        <item>Have you ever seen the person, who kissed you, kissing anyone else? </item>
+        <item>Do you want to be far away from the place you are located in right now?(If yes, why? Which side of this place do you dislike?)</item>
+        <item>Do you hate shopping? </item>
+        <item>Are farewells difficult for you?</item>
+        <item>Who were you attracted romantically last year?</item>
+        <item>Did you kiss/hug anyone today?</item>
+        <item>What was your last thought before going to bed last night?</item>
+        <item>Is there anyone with whom you dated in 7 years that you think as an idiot act?</item>
+        <item>How many people (opposite sex) have you fell in love in last 3 months?</item>
+        <item>Do you mind if your valentine uses narcotics?</item>
+        <item>What is  you want to happen/be more?</item>
+        <item>Have you ever cheated on your partner?</item>
+        <item>Have you ever kept any reality secret from someone that should know it? </item>
+        <item>What is love?</item>
+        <item>Is there anyone you kissed when you got locked in a room?</item>
+        <item>Is there anyone making you happy apart from your family?</item>
+        <item>Do you believe in love at first sight?</item>
+        <item>Have you ever told white lie?</item>
+        <item>Who do you see as best friend among us?</item>
+        <item>When did you masturbate last?</item>
+        <item>Have any member of your family caught you watching/downloading porn?</item>
+        <item>How many times do you think of sex a day?</item>
+        <item>How many times do you masturbate successively?</item>
+        <item>How many times have you ever had sex?</item>
+        <item>Have you ever sworn?</item>
+        <item>Have you ever patted yourself?</item>
+        <item>What would you buy if you have so much money?</item>
+        <item>How often do you take alcohol?</item>
+        <item>Who do you think the most charismatic/beautiful?</item>
+        <item>If you had to choose one of players, who do you want to be your valentine?</item>
+        <item>What was the name of your first love?</item>
+        <item>Who and when beat you last? Reason?</item>
+        <item>What is you most obsessed with?</item>
+        <item>From what do you save yourself first if you have chance?</item>
+        <item>What is the event/matter you are most upset for in this world?</item>
+        <item>How many people have seen you as naked? Except for mom and dad!</item>
+        <item>Is there anyone you are curious for his/her sexual organ? His/her name?</item>
+        <item>Is there anything you are most afraid of, but nobody knows?</item>
+        <item>What is the most embarrassing offence-wrong act/sin you ever done?</item>
+        <item>What is the most disgusting situation making you detest yourself?</item>
+        <item>What is the biggest lie you ever told?</item>
+        <item>What is you say “I will never do again.”?</item>
+        <item>Who, when and where did you see as bare-naked? </item>
+        <item>Have you ever stolen anything?</item>
+        <item>Have you ever been  attracted by someone elder than you romantically?</item>
+        <item>Have your ever been interested in homosexuality?</item>
+        <item>Have you ever been attracted romantically by valentine of your friend?</item>
+        <item>What is event/state you are afraid most of being in it?</item>
+        <item>Who are you attracted by/interested with? Apart from your valentine.</item>
+        <item>Tell about any memory of yours making you cry. </item>
+        <item>Have you ever caught anyone masturbating?</item>
+        <item>Have you ever had any moment for which you say “I wish I would not be born. Bullshit!” Tell!</item>
+        <item>Have you ever been rejected by someone you offer dating?</item>
+        <item>What is you can never say to your family? </item>
+        <item>Have you ever thought of fingering yourself?</item>
+        <item>What do you want most to do after sex? </item>
+        <item>What is making you upset most after losing it?</item>
+        <item>Who makes you upset most?</item>
+        <item>What is worst insult or utterance so far ?</item>
+        <item>Why do girls see black man sempatic?</item>
+        <item>If you do not have any preservative, what would you do?</item>
+        <item>What makes a man handsome?</item>
+        <item>At which part you look in opposite sex?</item>
+        <item>What is the name of your old partner?</item>
+        <item>What do you think the most meaningless thing in life is?</item>
+        <item>Have you ever loved platonically?</item>
+        <item>What do you think about any potential dating offer by any of players?</item>
+        <item>Have you ever loved someone?</item>
+        <item>Have you ever make friend later with someone you got angry/disliked so much when you saw him/her first?</item>
+        <item>What is your habit you dislike most?</item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+
+    </string-array>
+    <string-array name="dare">
+
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+    </string-array>
+    <string name="music">Music</string>
+
+
+</resources>

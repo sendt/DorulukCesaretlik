@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    tools:context="bayram.dorulukcesaretlik.cumleler"
+    android:background="#44433A"
+    >
+
+    <ScrollView
+        xmlns:android="http://schemas.android.com/apk/res/android"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/scrollView">
+
+
+        <LinearLayout
+            android:layout_width="fill_parent"
+            android:layout_height="fill_parent"
+            android:layout_alignParentEnd="true"
+            android:layout_alignParentRight="true"
+            android:layout_below="@+id/scrollView"
+            android:orientation="vertical">
+
+            <TextView
+                android:id="@+id/whos_turn_txt"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_margin="15dp"
+                android:layout_weight="1"
+                android:gravity="center"
+                android:text="TextView"
+                android:textColor="@color/orange"
+                android:textIsSelectable="true"
+                android:textSize="20sp" />
+
+            <TextView
+                android:id="@+id/textalani"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_above="@+id/btntamam"
+                android:layout_centerHorizontal="true"
+                android:layout_margin="15dp"
+                android:layout_marginBottom="105dp"
+                android:layout_weight="1"
+                android:gravity="center"
+                android:text=" buraya cümleler yazılacak"
+                android:textIsSelectable="true"
+                android:textColor="@color/orange"
+                android:textSize="20sp" />
+
+            <ImageView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:id="@+id/i_vi"
+                android:layout_gravity="center"
+                android:layout_below="@+id/scrollView"
+
+                />
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_alignParentTop="true"
+                android:layout_centerHorizontal="true"
+                android:layout_marginTop="90dp">
+
+                <Button
+                    android:id="@+id/ask_new"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1"
+                    android:background="@drawable/butun_tasarimi1"
+                    android:text="@string/btn_ask_other"
+                    android:layout_margin="5dp"
+                    android:layout_marginBottom="10dp"
+                    />
+
+                <Button
+                    android:id="@+id/btntamam"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1"
+                    android:background="@drawable/butun_tasarimi2"
+                    android:layout_margin="5dp"
+                    android:layout_marginBottom="10dp"
+                    android:text="@string/btn_OKAY" />
+            </LinearLayout>
+
+        </LinearLayout>
+            </ScrollView>
+
+
+
+</RelativeLayout>

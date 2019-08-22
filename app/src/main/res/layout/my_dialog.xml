@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android" android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/gray">
+
+    <ScrollView
+        xmlns:android="http://schemas.android.com/apk/res/android"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/scrollView">
+
+
+
+        <LinearLayout
+            android:layout_width="fill_parent"
+            android:layout_height="fill_parent"
+            android:orientation="vertical"
+            android:layout_below="@+id/scrollView"
+            android:layout_alignParentRight="true"
+            android:layout_alignParentEnd="true">
+
+            <EditText
+                android:id="@+id/txt1"
+                style="@style/edit_name"
+                android:hint="@string/first_p"
+                android:focusable="true"
+                android:background="@drawable/oval"/>
+
+            <EditText
+                android:id="@+id/txt2"
+                android:layout_below="@+id/txt1"
+                android:hint="@string/second_p"
+                android:background="@drawable/oval"
+                style="@style/edit_name"
+                />
+
+            <EditText
+                android:id="@+id/txt3"
+                android:layout_below="@+id/txt2"
+                android:hint="@string/third_p"
+                android:background="@drawable/oval"
+                style="@style/edit_name"
+                />
+
+            <EditText
+                android:id="@+id/txt4"
+
+                android:layout_below="@+id/txt3"
+                android:hint="@string/fourth_p"
+                android:background="@drawable/oval"
+                style="@style/edit_name"
+                />
+
+            <EditText
+                android:id="@+id/txt5"
+                android:layout_below="@+id/txt4"
+                android:hint="@string/fifth_p"
+                android:background="@drawable/oval"
+                style="@style/edit_name"
+                />
+
+            <EditText
+                android:id="@+id/txt6"
+                android:layout_below="@+id/txt5"
+                android:hint="@string/sixth_p"
+                android:background="@drawable/oval"
+                style="@style/edit_name"
+                />
+
+            <EditText
+                android:id="@+id/txt7"
+                android:layout_below="@+id/txt6"
+                android:hint="@string/seventh_p"
+                android:background="@drawable/oval"
+                style="@style/edit_name"
+                />
+
+            <EditText
+                android:id="@+id/txt8"
+                android:layout_below="@+id/txt7"
+                android:hint="@string/eighth_p"
+                android:background="@drawable/oval"
+                style="@style/edit_name"
+                />
+
+
+            <Button
+                android:id="@+id/btnm"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_below="@+id/txt8"
+                android:inputType="textPersonName"
+                android:layout_centerHorizontal="true"
+                android:layout_marginTop="6dp"
+                android:background="@drawable/butun_tasarimi3"
+                android:gravity="center"
+                android:radius="20dp"
+                android:layout_marginLeft="10dp"
+                android:layout_marginRight="10dp"
+                android:textColor="@color/black"
+                android:text="@string/btn_OKAY" />
+
+
+            <TextView
+                android:id="@+id/textvi"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_below="@+id/btnm"
+                android:layout_centerHorizontal="true"
+                android:layout_margin="15dp"
+                android:gravity="center"
+                android:text="@string/u_dont_have_to_fiil"
+                android:textSize="20sp"
+                android:textColor="@color/white"/>
+
+
+        </LinearLayout>
+    </ScrollView>
+
+
+</RelativeLayout>

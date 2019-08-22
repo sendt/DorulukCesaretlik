@@ -1,0 +1,310 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Dog-Ces</string>
+    <string name="first_p">Birinci oyuncu</string>
+    <string name="second_p">İkinci oyuncu</string>
+    <string name="third_p">"Üçüncü oyuncu "</string>
+    <string name="fourth_p">Dördüncü oyuncu</string>
+    <string name="fifth_p">Beşinci oyuncu</string>
+    <string name="sixth_p">Altıncı oyuncu</string>
+    <string name="seventh_p">Yedinci oyuncu</string>
+    <string name="eighth_p">Sekizinci oyuncu</string>
+    <string name="u_dont_have_to_fiil">Sekiz kişi olmak zorunda değilsiniz</string>
+    <string name="why_no_body_plays">Kimse oynamıyor mu?</string>
+    <string name="whos_turn">sırası</string>
+    <string name="begining_turn">Biri oyuna başlamak için üstteki çarkı çevirsin</string>
+    <string name="turn_first_wheel">birinci çarkı çevir</string>
+    <string name="first_turn_then">gülücüğe tıkla ve sonra ikinci çarkı çevir</string>
+    <string name="btn_ask_other">Başka Getir</string>
+    <string name="btn_OKAY">Tamam</string>
+    <string name="are_u_ready">Hazırsanız başlayalım</string>
+    <string name="guys">Kişiler</string>
+    <string name="TRUE">Doğruluk</string>
+    <string name="PAS">Pas</string>
+    <string name="DARE">Cesaretlik</string>
+    <string name="music_open">müziği aç</string>
+    <string name="music_close">müziği kapat</string>
+
+    <string-array name="truth">
+        <item>Asla hayır diyemeyeceğin şey?</item>
+        <item>En büyük ve pişman olduğun kötülüğün neyle alakalı idi?</item>
+        <item>Hiç kimsenin bilmediği bir şeyini bana söyler misin?</item>
+        <item>En çok utandığın an ne zamandı?</item>
+        <item>En son neden ağladın?</item>
+        <item>Hayatta olmazsa olmaz dediğin aşırılık durumuna bir tane örnek verir misin?
+              </item>
+        <item>En çaresiz anında kimi aradın/ararsın?</item>
+        <item>Şu anki ruh haline bakarak ne tür film izlersin (aksiyon/dram/bilim kurgu/romantik komedi/biyografi/fantastik)</item>
+        <item>Deseler ki sana “geçmişte bir anı seç ve seni oraya döndüreceğiz” Tekrar yaşamak istediğin an nedir?</item>
+        <item>İç çamaşarı giyiyor musun şimdi?Rengi?</item>
+        <item>Sence oyuncular arasında sır tutma  konusunda en çok zorlanan kişi kimdir?</item>
+        <item>Yapıpta tamamen utanç duyduğun birşeyden bahset</item>
+        <item>Vücudunun en çok hangi tarafıyla gurur duyuyorsun?</item>
+        <item>Facebook’ta engelli ve kısıtlanmış kimseler listende kimler var?</item>
+        <item>En kötü alışkanlığın nedir?</item>
+        <item>Bu odadaki birini kölen olarak alabilme şansın olsaydı, kim olurdu ve ne yapmasını isterdin?</item>
+        <item>Sana kendini ne güvensiz hissettirir?</item>
+        <item>Sence en büyük kusurun nedir?</item>
+        <item>Hayatında yaptığın en büyük hata nedir?</item>
+        <item>Daha önce karşı cinsten birine iç çamaşırı aldığın oldu mu?</item>
+        <item>Sağ tarafındaki kişiyi öpme düşüncesi seni heyecanlandırıyor mu?</item>
+        <item>İlk ne zaman öpüştün?</item>
+        <item>Daha önce annenle babanı sevişirken yakaladın mı?</item>
+        <item>Söylediğin en son yalan neydi?</item>
+        <item>Seni en çok tahrik eden şey nedir?</item>
+        <item>Hiç kimseyi öldürmek istedin mi?</item>
+        <item>Hiç iftira attin mi?Attıysan kime ne iftira attığını söyle</item>
+        <item>En igrendigin şey ne?</item>
+        <item>Şu an sevişmek istesen hangimizle sevişmek isterdin?</item>
+        <item>Kaç yaşında milli oldun?</item>
+        <item>Birine aşık mısın?</item>
+        <item>Hayatta yaptığın en çılgınca şey nedir?</item>
+        <item>Hangi ülkede kiminle yaşamak isterdin?Niye?</item>
+        <item>Yeniden dünyaya gelsen kim olmak isterdin?</item>
+        <item>Hiç kendine zarar vermek istediğin oldu mu?
+            (Evetse niye?)</item>
+        <item>İlk erkek-kız arkadaşının adı?</item>
+        <item>Issız bir adaya düşsen yanına alacağın üç şey ne olurdu?Niye ki?</item>
+        <item>Seni bu dünyda en çok inciten şey nedir?</item>
+        <item>En utanç verici anın?</item>
+        <item>Veripte iyiki verdim dediğin şey nedir?</item>
+        <item>Hiç eğlence mekanında WC de kapıyı kitlemeyi unutup bodoslamadan içeri dalan oldumu?</item>
+        <item>Hayatında hiç burnunu karıştırıp masanın altına sildin mi?</item>
+        <item>Toplu taşıma araçlarında osurup amaan nasıl olsa kalabalık benden bilmezler diyip sonrada öff diyip burnunu kapattın mı?</item>
+        <item>Sağındaki oyuncu hakkında ne düşünüyorsun?</item>
+        <item>Solundaki oyuncu hakkında ne düşünüyorsun?</item>
+        <item>İç çamarın rengi nedir?</item>
+        <item>Şuan gerçekten istediğin şey nedir?</item>
+        <item>Aşık olmaktan korkuyor musun?Niye?</item>
+        <item>Hiç başka biriyle bir kanepede uyudun mu?</item>
+        <item>Sence hangisi daha çok acı verir Duygusal acı mı? Fiziksel acı mı?</item>
+        <item>Sana kalsa hangisini ziyaret etmeyi tercih edersin Müze mi Hayvanat Bahçesi mi?Niye?</item>
+        <item>Yorgun musun?</item>
+        <item>Seni öpen biriyle en son ne zaman konuştun?</item>
+        <item>Doğru kişi olduğunu bildiğin biriyle bugün evlenir misin?
+            </item>
+        <item>Seni öpen son kişiyi tekrar öper miydin?
+            (Niye ?)</item>
+        <item>Aklında ne var şimdi?</item>
+        <item>Dövmen var mı?</item>
+        <item>Bir daha ki sefere dudaklarından öpeceğin kişi kim olsun isterdin?</item>
+        <item>Hiç kimse güzel gözlerin olduğunu söyledi mi?</item>
+        <item>Sevgililer günün hiç yalnız geçti mi?</item>
+        <item>Seni öpen kişiyi başka birini öperken gördün mü?</item>
+        <item>Şuan olduğun yerden uzakta olmak istedin mi?
+            (Evet ise Niye?Buranın Neyini begenmiyorsun?)</item>
+        <item>Alışverişten nefret ediyor musun?</item>
+        <item>Vedalar senin için zor mudur?</item>
+        <item>Geçen yıl kimden hoşlanıyordun?</item>
+        <item>Bugün birini öptün/sarıldın mı?</item>
+        <item>Dün gece yatağa gitmeden önce ki son düşüncen neydi?</item>
+        <item>7 yıl içinde aptalca aşk yaşadığın birini var mı?</item>
+        <item>Son 3 ay içinde kaç kişiyi sevdin?</item>
+        <item>Eğer sevgilin uyuşturucu kullansa umurunda olur muydu?</item>
+        <item>Daha fazla olmasını istediğin şey nedir?</item>
+        <item>Hiç sevgilini aldattın mı?</item>
+        <item>Gerçeği bilmesi gereken birinden gizli tuttuğun oldu mu?</item>
+        <item>Aşk nedir?</item>
+        <item>Bir odada kilitli kalığında öptüğün biri var mı?</item>
+        <item>Seni mutlu eden biri var mı aile dışında?</item>
+        <item>İlk görüşte aşka inanıyor musun?</item>
+        <item>Birine pembe yalan söyledin mi hiç?</item>
+        <item>Aramızdan en yakın arkadaş olarak gördüğün arkadaşın kim?</item>
+        <item>En son ne zaman masturbasyon yaptın?</item>
+        <item>Hiç ailene porno izlerken/indirirken yakalandınmı?</item>
+        <item>Günde ortalama kaç kez sex düşünürsün?</item>
+        <item>Üst Üste en fazla yaptığın masturbasyon sayısı?</item>
+        <item>Kaç kere sex yaptın şimdiye kadar ?</item>
+        <item>Annene hic kufur ettin mi ?</item>
+        <item>Hiç kendini okşadın mı?</item>
+        <item>Çok paran olsa ilk alacağın şey ne olurdu?</item>
+        <item>Ne sıklıkla alkol kullanırsın?</item>
+        <item>Sence oyunculardan en karizmatik/en güzel kim?</item>
+        <item>Oyunculardan birini seçme zorunda oysaydın kimin sevgilin olmasını isterdin?</item>
+        <item>İlk aşkının adı neydi ?</item>
+        <item>En son ne zaman ve kimden dayak yedin ? sebebi neydi ?</item>
+        <item>Bu hayattaki en çok kafana taktığın şey nedir ?</item>
+        <item>Elinde olsa hayatında ilk neyden kurtulmak istersin ?</item>
+        <item>Bu dünyadaki en çok üzüldüğün olay nedir ?</item>
+        <item>Seni çıplak halde gören kaç kişi var ? Annen ve Baban hariç!</item>
+        <item>Bu hayatta cinsel organını merak ettiğin bi arkadaşın var mı ? varsa ismi ?</item>
+        <item>Yapmaktan en çok korktuğun ama kimsenin bilmediği bişey var mı ?</item>
+        <item>İşlediğin en yüz kızartıcı suç ya da günah nedir ?</item>
+        <item>Bu hayatta kendinden tiksinmeni sağlayacak,en iğrenç durumun nedir?</item>
+        <item>Söylediğin en büyük yalan nedir ?</item>
+        <item>Bir daha asla yapmam dediğin şey nedir ?</item>
+        <item>En son kimi ne zaman nerde çıplak gördün ama çırılçıplak</item>
+        <item>Hırsızlık yaptınmı hiç?</item>
+        <item>Hiç kendinden yaşça büyük birine ilgi duydun mu ?</item>
+        <item>Hiç eşcinselliğe ilgi duydun mu?</item>
+        <item>Hiç arkadasının sevgilisine ilgi duydun mu?</item>
+        <item>Bu hayatta en çok korktuğun durum nedir ?</item>
+        <item>Bu dünyadaki en çok ilgi duyduğun kişi kimdir sevgilin haricinde ?</item>
+        <item>Her aklına geldiğinde seni ağlamaklı yapan bir anını anlat.</item>
+        <item>Hic birini masturbasyon yaparken yakaladin mi?</item>
+        <item>Hayata keşke gelmeseydim *mk dediğin an var mıdır?Anlat!</item>
+        <item>Seni hiç reddeden oldu mu ?</item>
+        <item>Ailene asla söyleyemeyeceğin şey nedir ?</item>
+        <item>Kendini parmaklamayı düşündün mü?</item>
+        <item>Sexten sonra en çok yapmayı sevdiğin şey nedir ?</item>
+        <item>Bu hayatta kaybettiğin icin en cok uzüldugun sey nedir? </item>
+        <item>Seni bu hayatta en çok üzen kisi kimdir ?</item>
+        <item>Bu hayatta yediğin en büyük hakaret ya da en kötü söz nedir seni taa en derinden yaralayan ?</item>
+        <item>Kızlar siyah erkekleri neden sempatik buluyorlar?</item>
+        <item>O an prezervatif yoksa ne yaparsın?</item>
+        <item>Bir erkeği yakışıklı gösteren şey?</item>
+        <item>Karşı cinsin ilk neresine bakarsın?</item>
+        <item>Eski aşkının ismi?</item>
+        <item>Sence dünyadaki en anlamsız şey?</item>
+        <item>Hiç platonik aşk yaşadın mı?</item>
+        <item>Oyunculardan birinin sana çıkma teklifi etmesine ne dersin?</item>
+        <item>Hiç aşk yaşadın mı?</item>
+        <item>İlk gördüğünde uyuz olduğun, sevmediğin biriyle daha sonra can ciğer dost oldun mu?</item>
+        <item>En sevmediğin huyun?</item>
+        <item>Bir daha dünyaya gelsen kim olarak doğmak isterdin?</item>
+        <item>Buradaki oyunculardan birini öpmek zorunda olsaydın kimi öperdin?</item>
+        <item>En Sevdiğin hayvan ismi?</item>
+        <item>Hayatında en Tahammül edemediğin kişi kimdir?</item>
+        <item>Hayında yaptığın delice şey nedir?</item>
+        <item>Çok isteyipte elde edemediğin bir sey oldu mu?</item>
+        <item>Hiç Aldatıldın mı?</item>
+        <item>Eş Cinsel olsan oyunculardan kime yazardın?</item>
+        <item>Birine Aşık olduğunda duygularınla mı yoksa mantığınla mı hareket edersin?</item>
+        <item>Gözlerini kapattığında aklına ilk kim geliyor?</item>
+        <item>Gelecekteki eşin olacak kişide, en çok hangi özellik olsun isterdin?</item>
+        <item>Hiç Deli gibi Sarhoş oldun mu?</item>
+        <item>Kimse ile paylaşmadığın sırrın varmı ?</item>
+        <item>Kendini sevdiğine inanıyor musun?</item>
+        <item>Flört ettiğin kişinin mesajlarına bilerek geç cevap verir misin?</item>
+        <item>En son neden ve ne zaman ağladın?</item>
+        <item>Kız/Erkek olmanın en kötü tarafı ne sence?</item>
+        <item>Şimdiye kadar kaç sevgilin oldu?</item>
+        <item>Sence kızlar mı daha zeki yoksa erkekler mi?</item>
+        <item>Hiç Öpüştün mü?</item>
+        <item>Oyunculardan en az sevdiğin kişi kim?</item>
+        <item>Issız bir adaya düşşen oyunculardan kimi alırdın yanına?</item>
+        <item>Kendini çekici buluyor musun?</item>
+        <item>Seni en çok duygulandıran şarkı</item>
+        <item>Kaç defa terk edildin?</item>
+        <item>En sevmediğin Şaka?</item>
+        <item>Deli gibi kıskandığın bir hemcinsin var mı?</item>
+        <item>Hoşlandığın kıza/erkeğe duygularını açıklar mıydın?</item>
+        <item>Olmazsa olmazın annen mi baban mı?(iksinden biri)</item>
+        <item>Hayatından memnun musun?</item>
+        <item>Oyunculardan kim ölürse en çok üzülürsün?</item>
+        <item>Hiç birini takip ettin mi?</item>
+        <item>Kendini en rahat hissettiğin yer?</item>
+        <item>Duştayken Şarkı söyler misin?</item>
+        <item>Hiç Evli birine aşık oldun mu?</item>
+        <item>Karşı cinsin ilgisini çekmek için yaptığın en komik şey nedir?</item>
+        <item>Nasıl filimlerden hoşlanırsın?</item>
+        <item>Mucizelere inanır mısın?</item>
+        <item>Hiç birini üzdün mü?</item>
+        <item>En büyük korkun nedir?</item>
+        <item>İç çamaşırın rengi nedir?</item>
+        <item>Kendine idol aldığın bir kişi? Niye o?</item>
+        <item>Kaybetmekten en çok korktuğun kişi kim?</item>
+        <item>En büyük mutluluğun?</item>
+        <item>Estetik ameliyat olmak istesen nerene yaptırırdın?</item>
+        <item>Para mi İnsanlık mı?</item>
+        <item>İnce uzun mu?Yoksa kalın ince mi?</item>
+        <item>Hiç kimsenin bilmediği bir yeteneğin var mı?</item>
+        <item>Keşke şu insanı tanımasaydım dediğin birisi var mı?</item>
+        <item>Hoşlandığın biri var mı?(Oyunculardan olmak zorunda değil)</item>
+        <item>Ölümsüz olmak ister miydin?</item>
+        <item>Hayatta en çok güvendiğin kişi kim?</item>
+        <item>Sana yapılmasını sevmediğin bir Şaka?</item>
+
+
+
+
+
+    </string-array>
+    <string-array name="dare">
+        <item>Alfabeyi tersten oku.</item>
+        <item>1 dk boyunca deli rolü oyna</item>
+        <item>Bir şarkı söyle</item>
+        <item>Ellerini kullanmadan bir muz soy</item>
+        <item>Oyun sırasında konuşurken sürekli yanlış kişiye bak</item>
+        <item>Gözlerini bağla, bir oyuncuyla yavaşça dans et ve dokunarak kim olduğunu tahmin et</item>
+        <item>İnsandan battaniye ol ve birini ısıt.</item>
+        <item>Bir paspas veya süpürge ile dans et</item>
+        <item>Solundaki kişiye seni pataklaması için yalvar</item>
+        <item>Biriyle nasıl flört edeceğini göster</item>
+        <item>Komşulara bağır: “Bir sessiz olun be!”</item>
+        <item>İki kolunun üzerine tükenmez kalem ile “Ben bir ezik bir aptalım” yaz</item>
+        <item>Üç kişiye “Seni seviyorum” diye mesaj yolla ve göster</item>
+        <item>Sağ tarafındaki oyuncunun sana ruj sürmesine izin ver, yoksa tükenmez kalem kullansın</item>
+        <item>Solundaki kişiye onunla ne yapmaktan hoşlandığını kulağına fısılda</item>
+        <item>Oyunculardan birini seç ve onun yanağını yala</item>
+        <item>Erkek isen; makyaj yap. Kız isen; makyajını temizle</item>
+        <item>Önündeki insana bakarak seksi bir şekilde muz ye</item>
+        <item>Tsirtünü çıkar ve 30 saniye boyunca gömlek dansı yap</item>
+        <item>Ne tarz bir iç çamaşır giydiğini itiraf et. Sorgulanırsan; kanıtlamak bedava</item>
+        <item>Dışarı çık karşı cinse çıkma teklifi et</item>
+        <item>Aktif kullandığın Sosyal Medya hesabında Ben Bir Gerizekalıyım yaz ve paylaş</item>
+        <item>Ailene telefon et ve neden işten (üniversiteden ya da okuldan da olabilir) atıldığınızı anlatın</item>
+        <item>Telefondan 20 kişilik yemek/pizza siparişi ver.1 dakika sonra siparişi başka yerden
+        verdik diyip iptal et</item>
+        <item>Telefonunu solundaki kişiye ver. 5 dk boyunca her yere bakmak serbest</item>
+        <item>Birine telefonunu ver ve istediği herhangi birine mesaj atsın</item>
+        <item>Oyuncuların hepsinin koltuk altını koklayın</item>
+        <item>Odanın bir ucundan diğer ucuna ellerinizin üzerinde yürüyün.
+        Gerekirse birisinden bacaklarınızı tutmasını isteyebilirsiniz</item>
+        <item>Kafanın üstünde iki yumurta kır</item>
+        <item>Bir hayvan olmayı seç ve sesini çıkar</item>
+        <item>Elbiselerinizle bir duş alın</item>
+        <item>Size bir tokat atmak için gruptan birini seçin</item>
+        <item>Seçtiğiniz bir sosyal medya hesabınızdan çok çirkin bir fotoğrafınızı paylaşın oyun sonuna kadar silmmeyin!</item>
+        <item>3 dakika boyunca stand-up gösteri yap</item>
+        <item>Başkasının dişlerini fırçala</item>
+        <item>Dilini el dirseğine değdir</item>
+        <item>Sexy bi şekilde Muz ye</item>
+        <item>Seviştiğin birini ifşa et en az adını söyle</item>
+        <item>Sevgilin varsa sevgiline diyosun ki ben seni aldattım.
+        Sebebini de sana daha iyi sex hizmeti alabilmek için diyosun</item>
+        <item>Çıplak bir fotorafını karşı cinsten birine gönder</item>
+        <item>Sana çok saygı duyan birini söyle(sevgilin, baban,annen vs. fark etmez)
+        sonra ona: hem cinsinden hoşlandığını söyle</item>
+        <item>Balkona çıkıp yanıyorum diye bağır</item>
+        <item>Hiç alakasız bir karşı cins arkadaşına whatsapptan mesaj at çok zamandır
+        sana açılamıyodum senden çok hoşlanıyorum falan diye.Ve göster</item>
+        <item>Simdi senden hoslandığını düşündüğün  birine ne kadar çirkin pis
+        oldunuğunu anlat</item>
+        <item>İstediğin iki oyuncunun çorabını değiştir</item>
+        <item>İstediğin kişinin kucağına otur min:30sn otur dur</item>
+        <item>Sağındaki Oyuncunun iç çamaşırına yazı yaz</item>
+        <item>İstediğin bir oyuncuya belini öptür</item>
+        <item>Oyuncuların hepsinden birer tokat ye!</item>
+        <item>En güzel/En yakışıklı oyuncuyu seç öp!</item>
+        <item>Yeri Yala!</item>
+        <item>Ben Eşeğim Diye bağır!</item>
+        <item>Dilini burnuna değdir</item>
+        <item>Kendine hızlıca bir tokat at</item>
+        <item>Bir oyuncunun Çorabını kokla</item>
+        <item>En yakınındaki kişinin üstünü ıslat</item>
+        <item>Yere(Zemine) yuvarlan!</item>
+        <item>Duvarın karşısına geç ve duvarla konuşmaya başla 1 dk boyunca</item>
+        <item>Yüzünü kalemle çiz!(Keçeli veya tükenmez kalemle)</item>
+        <item>En Nefret Ettiğin kisinin numarası varsa ara ve söyle yoksa bir platfordan mesaj at</item>
+        <item>Birden gerçekten ağlamaya başla ve sonra Kahkaha at</item>
+        <item>Saçına limon sık</item>
+        <item>Şişenin üstüne otur! ve min 30sn bekle</item>
+        <item>Çiğ yumurta ye</item>
+        <item>Serçe parmağınla kulağını karıştır</item>
+        <item>Anne ni veya babanı ara ve evleniyorum de!Yapmıyorsan mesaj at!!</item>
+        <item>Hoşlandığın kişiyi arayıp itiraf et!</item>
+        <item>Aynaya baktığında seni rahatsın eden bir organını söyle!</item>
+        <item>5 bardak su iç!</item>
+        <item>İlk gördüğün kişiye vur! (oyuncularda dahil)</item>
+        <item>Şu anda yanındaki bir arkadaşına makyaj yap!</item>
+        <item>Başından aşagı soguk su dök.yoksa normal su dök</item>
+        <item>Rastgele bir numara cevir ara ve sohbet et!</item>
+        <item>Burnunu karıştır ve o parmağını yala!</item>
+        <item>Sağındaki oyuncunun kulağını yala!</item>
+        <item>Solundaki oyuncunun kulagını yala</item>
+        <item>Seçtiğin bir youncunun götüne şaplak atmasına izin ver!</item>
+        <item>Oynucularandan birine sevidğini söyle!</item>
+            </string-array>
+    <string name="music">Müzik</string>
+</resources>

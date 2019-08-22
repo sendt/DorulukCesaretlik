@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#ffa500"
+    android:orientation="vertical"
+    tools:context="bayram.dorulukcesaretlik.cevir">
+
+
+    <github.hellocsl.cursorwheel.CursorWheelLayout
+
+                android:id="@+id/wheel_text"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center_horizontal"
+                app:wheelCursorColor="#ff69"
+                app:wheelCursorHeight="15dp"
+                app:wheelItemRotateMode="none"
+                app:wheelSelectedAngle="270"
+                >
+
+                <TextView
+                    android:id="@+id/id_wheel_menu_center_item"
+                    style="@style/TextAppearance.AppCompat.Large.Inverse"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:gravity="center"
+                    android:text="@string/guys"
+                    android:textColor="#009688" />
+            </github.hellocsl.cursorwheel.CursorWheelLayout>
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/text_container">
+        <TextView
+            android:id="@+id/kisi"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerHorizontal="true"
+            android:layout_centerVertical="true"
+            android:textAlignment="center"
+            android:textColor="@android:color/black"
+            android:textSize="18sp" />
+    </RelativeLayout>
+
+    <github.hellocsl.cursorwheel.CursorWheelLayout
+                android:id="@+id/wheel_image"
+                android:layout_width="50dp"
+                android:layout_height="50dp"
+                android:layout_centerHorizontal="true"
+                android:layout_centerVertical="true"
+                app:wheelCursorColor="#ff69"
+                app:wheelCursorHeight="15dip"
+                app:wheelItemRotateMode="none"
+                app:wheelSelectedAngle="270">
+
+                <TextView
+                    android:id="@id/id_wheel_menu_center_item"
+                    style="@style/TextAppearance.AppCompat.Large.Inverse"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:gravity="center"
+                    android:text="^ _ ^"
+                    android:textColor="#009688" />
+            </github.hellocsl.cursorwheel.CursorWheelLayout>
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/button_container">
+        <Switch
+            android:id="@+id/tgbtn"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentLeft="true"
+            android:layout_centerVertical="true"
+            android:layout_marginLeft="5dp"
+            android:shadowColor="@color/black"
+            android:text="@string/music"
+            android:textColorHighlight="@color/black"
+            android:textColorHint="@color/black"
+            android:textColorLink="@color/black"
+            android:textSize="18sp" />
+
+        <ImageButton
+            android:id="@+id/imageButton3"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentRight="true"
+            android:layout_centerVertical="true"
+            android:layout_marginRight="5dp"
+            android:background="#ffa500"
+            android:contentDescription="TODO"
+            android:onClick="ShowDialog"
+            app:srcCompat="@mipmap/ayarlar1" />
+    </RelativeLayout>
+
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/null_layout"></RelativeLayout>
+
+</LinearLayout>
